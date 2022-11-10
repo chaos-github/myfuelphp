@@ -1,0 +1,1 @@
+mypages index VIEW
